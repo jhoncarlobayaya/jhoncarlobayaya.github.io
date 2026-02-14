@@ -128,7 +128,7 @@ body {
     position: relative;
     transform: scale(0.4);
     right: 50%;
-    top: 100%;
+    top: 250%;
     bottom: 100vmin;
     animation-delay: 10s;
   }
