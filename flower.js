@@ -17,14 +17,14 @@ const button = document.getElementById("myBtn");
             background.style.display = background.style.display === "flex" ? "none" : "flex";
             paragraph1.style.display = "none";
             paragraph.style.textAlign = "center";
-            height.style.height = "540px"
+            height.style.height = "480px"
         
             container.style.animation = "fadeIn 1s ease-in forwards";
             
 
             message.textContent = "HAPPY VALENTINE'S DAY";
             paragraph.textContent =
-                "May this day reminds you of how special you are, how loved you are, and how much you mean to those around you. Take a deep breath, appreciate the love that surrounds you, and don’t forget to spread love and positivity wherever you go.Wishing you a Valentine’s Day filled with warmth, happiness, and beautiful memories! 💖😊";
+                "May this day remind you of how special you are, how loved you are, and how much you mean to those around you. Take a deep breath, appreciate the love that surrounds you, and don’t forget to spread love and positivity wherever you go.Wishing you a Valentine’s Day filled with warmth, happiness, and beautiful memories! 💖😊";
         
             const backgroundColor = "#fcfcfcff";
             const cyan = "violet";
@@ -57,5 +57,3 @@ const button = document.getElementById("myBtn");
                 }
             }, 100);
         };
-
-
