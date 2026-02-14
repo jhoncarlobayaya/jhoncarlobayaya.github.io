@@ -22,7 +22,7 @@ const button = document.getElementById("myBtn");
             container.style.animation = "fadeIn 1s ease-in forwards";
             
 
-            message.textContent = "HELLO,HAPPY VALENTINE'S DAY";
+            message.textContent = "HAPPY VALENTINE'S DAY";
             paragraph.textContent =
               "KAWAWA KA NAMAN WALANG NAG BIBIGAY NG BULAKLAK SAYO:( , AYAN HO FOR U"
               
@@ -57,3 +57,4 @@ const button = document.getElementById("myBtn");
                 }
             }, 100);
         };
+
