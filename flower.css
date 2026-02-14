@@ -129,7 +129,7 @@ body {
     transform: scale(0.4);
     right: 50%;
     top: 250%;
-    bottom: 100vmin;
+    bottom: 90vmin;
     animation-delay: 10s;
   }
   .flower {
@@ -1082,5 +1082,3 @@ mask-image: linear-gradient(to top, transparent 40%, #7b2cbf 80%) !important;
 .not-loaded * {
   animation-play-state: paused !important;
 }
-
-
