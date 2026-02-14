@@ -17,7 +17,7 @@ const button = document.getElementById("myBtn");
             background.style.display = background.style.display === "flex" ? "none" : "flex";
             paragraph1.style.display = "none";
             paragraph.style.textAlign = "center";
-            height.style.height = "480px"
+            height.style.height = "540px"
         
             container.style.animation = "fadeIn 1s ease-in forwards";
             
@@ -57,4 +57,5 @@ const button = document.getElementById("myBtn");
                 }
             }, 100);
         };
+
 
