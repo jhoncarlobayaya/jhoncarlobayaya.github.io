@@ -126,7 +126,7 @@ body {
   .flowers {
     display: none;
     position: relative;
-    transform: scale(0.4);
+    transform: scale(0.6);
     right: 50%;
     top: 250%;
     bottom: 90vmin;
@@ -1082,3 +1082,4 @@ mask-image: linear-gradient(to top, transparent 40%, #7b2cbf 80%) !important;
 .not-loaded * {
   animation-play-state: paused !important;
 }
+
