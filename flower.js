@@ -22,11 +22,11 @@ const button = document.getElementById("myBtn");
             container.style.animation = "fadeIn 1s ease-in forwards";
             
 
-            message.textContent = "HAPPY VALENTINES DAY";
+            message.textContent = "HAPPY VALENTINE'S DAY";
             paragraph.textContent =
                 "May this day remind you of how special you are, how loved you are, and how much you mean to those around you. Take a deep breath, appreciate the love that surrounds you, and don’t forget to spread love and positivity wherever you go.Wishing you a Valentine’s Day filled with warmth, happiness, and beautiful memories! 💖😊";
         
-            const backgroundColor = "#10002b";
+            const backgroundColor = "#fcfcfcff";
             const cyan = "violet";
         
           
