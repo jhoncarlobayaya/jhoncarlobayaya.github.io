@@ -24,8 +24,7 @@ const button = document.getElementById("myBtn");
 
             message.textContent = "HELLO,HAPPY VALENTINE'S DAY";
             paragraph.textContent =
-              "Pasensya na kung wala akong maibigay na magandang bulaklak para sayo, wala na akong pera  e hahahah. pero don't wory pangka magkikita namna later mamaya e, anw, pangkaaa!! ang comfy ko na sayoo, i hope na wag mo akong lolokohin and wag mo akong ipagpapalit sa iba :(( so yon lang pangkaaa, happy valentine's day!! see u later poo"
-        
+             "WAHH KAWAWA PALANG FLOWERS🤣🫵 JOKE, LOW BUDGET FLOWERS FOR U!!🫶"
               
             const backgroundColor = "#fcfcfcff";
             const cyan = "violet";
