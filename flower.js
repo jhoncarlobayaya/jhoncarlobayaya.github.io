@@ -1,4 +1,4 @@
-const button = document.getElementById("myBtn");const button = document.getElementById("myBtn");
+const button = document.getElementById("myBtn");
 
         button.onclick = function () {
             const container = document.querySelector(".container");
