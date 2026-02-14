@@ -17,20 +17,20 @@ const button = document.getElementById("myBtn");
             background.style.display = background.style.display === "flex" ? "none" : "flex";
             paragraph1.style.display = "none";
             paragraph.style.textAlign = "center";
-            height.style.height = "480px"
+            height.style.height = "380px"
         
             container.style.animation = "fadeIn 1s ease-in forwards";
             
 
-            message.textContent = "HAPPY VALENTINE'S DAY";
+            message.textContent = "HELLO,HAPPY VALENTINE'S DAY";
             paragraph.textContent =
-                "May this day remind you of how special you are, how loved you are, and how much you mean to those around you. Take a deep breath, appreciate the love that surrounds you, and don’t forget to spread love and positivity wherever you go.Wishing you a Valentine’s Day filled with warmth, happiness, and beautiful memories! 💖😊";
-        
+              "KAWAWA KA NAMAN WALANG NAG BIBIGAY NG BULAKLAK SAYO:( , AYAN HO FOR U"
+              
             const backgroundColor = "#fcfcfcff";
             const cyan = "violet";
         
           
-            paragraph.style.color = "#e0aaff";
+            paragraph.style.color = "#000000ff";
             header.style.color = "#9d4edd";
         
             container.style.backgroundColor = backgroundColor;
