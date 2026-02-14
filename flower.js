@@ -24,7 +24,7 @@ const button = document.getElementById("myBtn");
 
             message.textContent = "HAPPY VALENTINE'S DAY";
             paragraph.textContent =
-             "WAHH KAWAWA PALANG FLOWERS🤣🫵 JOKE, LOW BUDGET FLOWERS FOR U!!🫶"
+             "WAHH KAWAWA WALANG FLOWERS🤣🫵 JOKE, LOW BUDGET FLOWERS FOR U!!🫶"
               
             const backgroundColor = "#fcfcfcff";
             const cyan = "violet";
@@ -57,4 +57,5 @@ const button = document.getElementById("myBtn");
                 }
             }, 100);
         };
+
 
