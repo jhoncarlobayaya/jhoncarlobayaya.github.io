@@ -1,4 +1,4 @@
-const button = document.getElementById("myBtn");
+const button = document.getElementById("myBtn");const button = document.getElementById("myBtn");
 
         button.onclick = function () {
             const container = document.querySelector(".container");
@@ -22,9 +22,10 @@ const button = document.getElementById("myBtn");
             container.style.animation = "fadeIn 1s ease-in forwards";
             
 
-            message.textContent = "HAPPY VALENTINE'S DAY";
+            message.textContent = "HELLO,HAPPY VALENTINE'S DAY";
             paragraph.textContent =
-              "KAWAWA KA NAMAN WALANG NAG BIBIGAY NG BULAKLAK SAYO:( , AYAN HO FOR U"
+              "Pasensya na kung wala akong maibigay na magandang bulaklak para sayo, wala na akong pera  e hahahah. pero don't wory pangka magkikita namna later mamaya e, anw, pangkaaa!! ang comfy ko na sayoo, i hope na wag mo akong lolokohin and wag mo akong ipagpapalit sa iba :(( so yon lang pangkaaa, happy valentine's day!! see u later poo"
+        
               
             const backgroundColor = "#fcfcfcff";
             const cyan = "violet";
@@ -57,4 +58,3 @@ const button = document.getElementById("myBtn");
                 }
             }, 100);
         };
-
